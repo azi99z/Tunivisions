@@ -1,7 +1,9 @@
 body{
     background-color: rgb(222, 222, 222);
-    margin-left: 250px;
+    float: initial;
+    margin-left:300px;
 }
+
 
 fieldset{
     border: 5px solid rgb(213, 42, 75);
@@ -89,4 +91,3 @@ input{
     height: 20px;
 
 }
-
